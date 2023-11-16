@@ -3,8 +3,9 @@
 I’m Halbert Zhang.
 
 **About me**
-- 🔭 I’m currently working on [Mantis Vision China](https://www.mantis-vision.com.cn/)
-- 💬 Ask me about anything [here](https://github.com/ZhangHaibo0810/ZhangHaibo0810/issues)
+- 🔭 I’m currently working on [Mantis Vision China](https://www.mantis-vision.com.cn/).
+- 🌱 I’m currently interested in 3D Vision.
+- 💬 Ask me about anything [here](https://github.com/ZhangHaibo0810/ZhangHaibo0810/issues).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhangHaibo0810&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 
