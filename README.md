@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ZhangHaibo0810>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhangHaibo0810&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 
 <!--
 **ZhangHaibo0810/ZhangHaibo0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
