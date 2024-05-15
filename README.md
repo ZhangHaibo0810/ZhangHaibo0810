@@ -5,9 +5,10 @@ I’m Halbert Zhang.
 **About me**
 - 👯 I’m looking to collaborate on Digital Human.
 - 🌱 I’m currently interested in 3D Vision.
+- 📫 How to reach me: zhanghaibo0810@outlook.com.
 - 💬 Ask me about anything [here](https://github.com/ZhangHaibo0810/ZhangHaibo0810/issues).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhangHaibo0810&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhangHaibo0810&show_icons=true&theme=raical" />
 
 <!--
 **ZhangHaibo0810/ZhangHaibo0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
