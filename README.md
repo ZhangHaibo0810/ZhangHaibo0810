@@ -3,7 +3,7 @@
 I’m Halbert Zhang.
 
 **About me**
-- 🔭 I’m currently working on [Mantis Vision China](https://www.mantis-vision.com.cn/).
+- 👯 I’m looking to collaborate on Digital Human.
 - 🌱 I’m currently interested in 3D Vision.
 - 💬 Ask me about anything [here](https://github.com/ZhangHaibo0810/ZhangHaibo0810/issues).
 
