@@ -3,7 +3,7 @@
 I’m Halbert Zhang.
 
 **About me**
-- 👯 I’m looking to collaborate on Digital Human.
+- 👯 I’m looking for collaborator on Digital Human.
 - 🌱 I’m currently interested in 3D Vision.
 - 📫 How to reach me: zhanghaibo0810@outlook.com.
 - 💬 Ask me about anything [here](https://github.com/ZhangHaibo0810/ZhangHaibo0810/issues).
