@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Halbert Zhang.
+I’m Haibo ZHANG.
 
 **About me**
 - 👯 I’m looking for collaborator on Digital Human.
